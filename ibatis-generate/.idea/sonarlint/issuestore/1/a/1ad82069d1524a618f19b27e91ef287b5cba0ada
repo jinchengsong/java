@@ -1,0 +1,19 @@
+
+Lsquid:S1481R")Remove this unused "list" local variable.(Å«©Éÿÿÿÿÿ8«Ü¶Â,
+[squid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8ÛÚ»¶Â,
+`squid:UselessImportCheck"5Remove this unused import 'java.util.logging.Logger'.(ƒ¥óš8ŸëÇ¶Â,
+]squid:UselessImportCheck"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8ŸëÇ¶Â,
+rsquid:UselessImportCheck"BRemove this unused import 'freemarker.template.TemplateException'.(½ÖøØûÿÿÿÿ8ÛÚ»¶Â,
+[squid:S1854R"8Remove this useless assignment to local variable "list".(Å«©Éÿÿÿÿÿ8«Ü¶Â,
+vsquid:S1450!"XRemove the "tableName" field and declare it as a local variable in the relevant methods.(¹ò¦¢8ÛÚ»¶Â,
+psquid:UselessImportCheck"ERemove this unused import 'java.sql.SQLFeatureNotSupportedException'.(”¹ªÕ8ŸëÇ¶Â,
+ssquid:S2068O"U'password' detected in this expression, review this potentially hardcoded credential.(èëëå8³ÏÖ¶Â,
+[squid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ8ŸëÇ¶Â,
+[squid:UselessImportCheck"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8ŸëÇ¶Â,
+€squid:UselessImportCheck	"URemove this unused import 'org.springframework.jdbc.datasource.DelegatingDataSource'.(úü8ìàÍ¶Â,
+Rsquid:EmptyStatementUsageCheck""Remove this empty statement.(¶ØÆøÿÿÿÿ8ÛÚ»¶Â,
+[
+squid:S106D"9Replace this use of System.out or System.err by a logger.(Ë¯Ğ¾úÿÿÿÿ8ÛÚ»¶Â,
+Ksquid:S1068!"-Remove this unused "tableName" private field.(¹ò¦¢8ÛÚ»¶Â,
+Fsquid:S11484"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÛÚ»¶Â,
+Fsquid:S1148G"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÛÚ»¶Â,

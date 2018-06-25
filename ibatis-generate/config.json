@@ -1,0 +1,14 @@
+{
+"tables":[
+  {
+    "tableName": "uf12",
+    "sourcePath": "E:\\logs\\",
+    "domainPackagePath": "com.yinhai.common.domain"
+  }
+],
+  "domainPackagePath":"com.yinhai.common.domain",
+  "sourcePath": "E:\\logs\\",
+  "jdbcUrl":"jdbc:oracle:thin:@192.168.17.100:1521:orcl",
+  "username":"xyda",
+  "password":"xyda"
+}

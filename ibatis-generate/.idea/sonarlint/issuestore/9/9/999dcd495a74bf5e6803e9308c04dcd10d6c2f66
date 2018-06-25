@@ -1,0 +1,7 @@
+
+`squid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úýÿÿÿÿ8å…Þ¶Â,
+vsquid:S3008"XRename this field "TEMPLATE_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¾öý8å…Þ¶Â,
+ysquid:UselessImportCheck"IRemove this unused import 'freemarker.template.TemplateExceptionHandler'.(Àî÷¦úÿÿÿÿ8å…Þ¶Â,
+qsquid:S00101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(žÕŽùÿÿÿÿ8å…Þ¶Â,
+nsquid:UselessImportCheck">Remove this unused import 'freemarker.template.Configuration'.(ðô£Æùÿÿÿÿ8å…Þ¶Â,
+Tsquid:UselessImportCheck")Remove this unused import 'java.io.File'.(†Ð¥Å8å…Þ¶Â,
